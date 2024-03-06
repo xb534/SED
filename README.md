@@ -1,6 +1,9 @@
 # SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
 
-This is our official pytorch implementation of SED. :fire: SED is accepted by CVPR 2024.
+This is our official pytorch implementation of SED. 
+
+## :fire: News
+- SED is accepted by CVPR 2024.
 
 [[arXiv](https://arxiv.org/abs/2311.15537)] <br>
 
