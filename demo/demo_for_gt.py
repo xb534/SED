@@ -23,7 +23,7 @@ from detectron2.data.detection_utils import read_image
 from detectron2.projects.deeplab import add_deeplab_config
 from detectron2.utils.logger import setup_logger
 
-from sed import add_cat_seg_config, add_fc_clip_config
+from sed import add_sed_config
 # from predictor import VisualizationDemo
 from visualizer import VisualizationGt
 from PIL import Image
