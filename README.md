@@ -118,13 +118,11 @@ The inference time is reported on a single NVIDIA A6000 GPU.
 ## Citation
 
 ```BibTeX
-@misc{xie2023sed,
+@inproceedings{xie2024sed,
       title={SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation}, 
       author={Bin Xie and Jiale Cao and Jin Xie and Fahad Shahbaz Khan and Yanwei Pang},
-      year={2023},
-      eprint={2311.15537},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      year={2024},
 }
 ```
 
